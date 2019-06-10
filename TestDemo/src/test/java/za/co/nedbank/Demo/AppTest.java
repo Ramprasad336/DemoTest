@@ -10,7 +10,7 @@ public class AppTest
     @Test
     public void exampleOfTestNgMaven()
     {
-        System.out.println(" START OF EXECUTION :testng.xmlThis is TestNG-Maven Example");
+        System.out.println(" START OF EXECUTION");
     }
 
 }
